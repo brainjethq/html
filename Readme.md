@@ -31,4 +31,10 @@ HTML (HyperText Markup Language) is the foundational language for creating web p
 `<html>`: The root element of the document.  
 `<head>`: Contains metadata about the page (not displayed in the browser).  
 `<title>`: Sets the title of the page, shown in the browser tab.  
-`<body>`: Contains the visible content of the page.  
+`<body>`: Contains the visible content of the page.
+
+HTML Tag:
+
+A Container for some contnet or other HTML Tags.
+
+![alt text](https://res.cloudinary.com/dm0mwubi4/image/upload/v1722089186/courseware/html/osv8ncfnu9efidoyauzy.png)
