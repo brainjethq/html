@@ -37,4 +37,4 @@ HTML Tag:
 
 A Container for some contnet or other HTML Tags.
 
-![alt text](https://res.cloudinary.com/dm0mwubi4/image/upload/v1722089186/courseware/html/osv8ncfnu9efidoyauzy.png)
+![HTML Tag Detailed](https://res.cloudinary.com/dm0mwubi4/image/upload/v1722089186/courseware/html/osv8ncfnu9efidoyauzy.png)
