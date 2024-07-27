@@ -27,8 +27,8 @@ HTML (HyperText Markup Language) is the foundational language for creating web p
 </html>
 ```
 
-<!DOCTYPE html>: Declares the document type and version of HTML.  
-<html>: The root element of the document.  
-<head>: Contains metadata about the page (not displayed in the browser).  
-<title>: Sets the title of the page, shown in the browser tab.  
-<body>: Contains the visible content of the page.  
+`<!DOCTYPE html>`: Declares the document type and version of HTML.  
+`<html>`: The root element of the document.  
+`<head>`: Contains metadata about the page (not displayed in the browser).  
+`<title>`: Sets the title of the page, shown in the browser tab.  
+`<body>`: Contains the visible content of the page.  
