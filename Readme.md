@@ -39,9 +39,9 @@ A Container for some contnet or other HTML Tags.
 
 ![HTML Tag Detailed](https://res.cloudinary.com/dm0mwubi4/image/upload/v1722089186/courseware/html/osv8ncfnu9efidoyauzy.png)
 
-***Element***: `<p>` This is Patagraph `</p>`  
+**Element**: `<p>` This is Patagraph `</p>`  
 
-***Opening Tag***: `<p>`  
-***Closing Tag***: `</p>`  
+**Opening Tag**: `<p>`  
+**Closing Tag**: `</p>`  
 
-***Autoclosing Tag***: `<input>`  
+**Autoclosing Tag**: `<input>`  
